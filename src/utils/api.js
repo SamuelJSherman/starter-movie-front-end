@@ -1,5 +1,5 @@
 const API_BASE_URL =
-"https://project-we-love-movies-e5468vtrb-samueljsherman.vercel.app";
+"https://we-love-movs1-backend.herokuapp.com";
 
 /**
  * Defines the default headers for these functions to work with `json-server`
